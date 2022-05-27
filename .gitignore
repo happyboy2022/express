@@ -1,0 +1,26 @@
+# MacOs
+.DS_Store
+.Trashes
+*.swp
+
+# Node
+logs
+*.log
+npm-debug.log*
+
+# Deploy
+.build
+
+# Dependency directory
+node_modules
+
+# Dotenv
+.env
+.env.development
+.env.test
+
+# VSCode
+.vscode
+
+# Jest
+coverage
